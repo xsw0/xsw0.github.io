@@ -1,3 +1,5 @@
+上一篇：[Nandgame 0 介绍.md](/2021/11/24/Nandgame-0-介绍.html)
+
 # Logic Gates
 
 这一部分使用简单的电路实现 nand 运算，然后使用 nand 实现其他常见逻辑门电路。
