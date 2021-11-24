@@ -1,4 +1,4 @@
-上一篇：[Nandgame 0 介绍.md](/2021/11/24/Nandgame-0-介绍.html)
+> 上一篇：[Nandgame 0 介绍.md](/2021/11/24/Nandgame-0-介绍.html)
 
 # Logic Gates
 
@@ -32,3 +32,5 @@
 ---
 
 现在，我们有简单的逻辑电路了。
+
+> 下一篇：[Nandgame 2 Arithmetics](/2021/11/24/Nandgame-2-Arithmetics.html)
